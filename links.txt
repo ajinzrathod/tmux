@@ -1,0 +1,5 @@
+Vi mode in tmux
+https://blog.sanctum.geek.nz/vi-mode-in-tmux/
+
+The best tmux and vim configuration in the universe 
+https://gist.github.com/jnaulty/55d03392c37e9720631a
