@@ -42,6 +42,8 @@ bind-key -T copy-mode-vi 'y' send -X copy-selection-and-cancel
 <prefix> d: Detach tmux (exit back to normal terminal)
 ```
 
+------
+
 To rename a pane
 ```
 <prefix> ,
