@@ -52,3 +52,11 @@ OR
 ```
 <prefix> $
 ```
+
+------
+
+Manage tmux Windows
+```tmux
+Prefix + p	Switch to the previous window
+Prefix + n	Switch to the next window
+```
