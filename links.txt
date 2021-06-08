@@ -6,3 +6,6 @@ https://gist.github.com/jnaulty/55d03392c37e9720631a
 
 A minimalist guide to tmux
 https://medium.com/actualize-network/a-minimalist-guide-to-tmux-13675fb160fa
+
+How to Use tmux (a Terminal Multiplexer)
+https://www.linode.com/docs/guides/persistent-terminal-sessions-with-tmux/
